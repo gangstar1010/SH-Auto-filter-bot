@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/7f5f7906440c8eaa5afc6.jpg" alt="Ben-filter-Bot Logo">
+  <img src="https://telegra.ph/file/f3f6da403b9968eb4dc9f.jpg" alt="Ben-filter-Bot Logo">
 </p>
 <h1 align="center">
   BEN-FILTER-BOT
